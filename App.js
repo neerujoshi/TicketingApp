@@ -16,7 +16,7 @@ export default function App() {
  
   return (
     <View style={styles.container}>
-      
+
       <Image style={styles.image} source={require("./assets/log2.png")} />
 
       <StatusBar style="auto" />
